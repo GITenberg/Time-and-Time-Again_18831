@@ -1,0 +1,42 @@
+_repo: Time-and-Time-Again_18831
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Napoli, Vincent
+    alias: Napoli, James Vincent
+    birthdate: 1907
+    deathdate: 1981
+    gutenberg_agent_id: '35340'
+    url: http://www.gutenberg.org/2009/agents/35340
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Science fiction luminary H. Beam Piper was fascinated with the idea of
+  time travel, and it is a theme that appears frequently in his work. This early short
+  story tells the tale of a wounded soldier who awakes after suffering a profound
+  injury on the battlefield. Though he can remember everything about his life as an
+  adult, he has somehow been transported back into his childhood body.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Time and Time Again
+url: http://www.gutenberg.org/ebooks/18831
